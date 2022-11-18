@@ -36,7 +36,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <ignite.version>2.11.0-SNAPSHOT</ignite.version>
+        <ignite.version>2.13.0</ignite.version>
         <ignite.springdata.version>1.0.0-SNAPSHOT</ignite.springdata.version>
 
         <ignite.edition>apache-ignite</ignite.edition>
@@ -1091,7 +1091,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -1104,7 +1104,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -1118,7 +1118,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                     </pluginExecutions>
