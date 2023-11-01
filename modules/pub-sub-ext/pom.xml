@@ -37,7 +37,7 @@
     <url>http://ignite.apache.org</url>
 
     <properties>
-        <pubsub.version>1.102.0</pubsub.version>
+        <pubsub.version>1.125.11</pubsub.version>
     </properties>
 
     <dependencies>
